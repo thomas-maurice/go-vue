@@ -1,0 +1,6 @@
+bin
+dist
+node_modules
+api/ui
+api/db.sqlite3
+api/config.yaml
